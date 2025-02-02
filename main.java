@@ -109,6 +109,7 @@ public class main {
                         kaspi.removeATM(atmToDelete);
                         System.out.println("ATM deleted successfully!");
                     }
+                    break;
                 case 8:
                     System.out.println("Thank you for using the Bank System!");
                     return;
